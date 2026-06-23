@@ -1,0 +1,5 @@
+outs:
+- md5: fa85bc29f3840ca5718ccaec6afc3000
+  size: 3373412
+  hash: md5
+  path: Resumen.csv

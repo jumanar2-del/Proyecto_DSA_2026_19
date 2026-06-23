@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://camilo-uniandes-dvc-2026
