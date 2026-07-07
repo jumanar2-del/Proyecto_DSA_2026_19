@@ -1,0 +1,17 @@
+Cliente,Canal,Oficina,SKU,Producto,Categoria,Ultima_compra_dias,Probabilidad,Prioridad,Venta_potencial,Razon
+3009096,T10,6030,DG-AD2,Adulto 2kg,Perros,45,0.86,Alta,5200000,Similaridad con clientes del mismo canal
+3012551,T10,6030,DG-AD2,Adulto 2kg,Perros,30,0.79,Alta,4100000,Historial de compra en categoria relacionada
+3045907,T14,6031,DG-AD2,Adulto 2kg,Perros,60,0.71,Media,3600000,Comportamiento parecido a clientes compradores
+3023529,T12,6032,DG-AD2,Adulto 2kg,Perros,35,0.68,Media,2900000,Alta rotacion en oficina y canal
+3009096,T10,6030,OMG-GATO,Gato 1kg,Gatos,45,0.74,Alta,2800000,Cliente con compra de productos complementarios
+3012551,T10,6030,OMG-GATO,Gato 1kg,Gatos,30,0.66,Media,2400000,Patron de compra del canal
+3045907,T14,6031,OMG-GATO,Gato 1kg,Gatos,60,0.63,Media,2200000,Producto con oportunidad en oficina
+3023529,T12,6032,OMG-GATO,Gato 1kg,Gatos,35,0.55,Baja,1700000,Relacion con categoria activa
+3009096,T10,6030,PAN-1KG,Harina 1kg,Alimentos,45,0.66,Media,2500000,Producto de alta rotacion
+3012551,T10,6030,PAN-1KG,Harina 1kg,Alimentos,30,0.72,Alta,3100000,Alta afinidad segun perfil comercial
+3045907,T14,6031,PAN-1KG,Harina 1kg,Alimentos,60,0.61,Media,2100000,Comportamiento similar por oficina
+3023529,T12,6032,PAN-1KG,Harina 1kg,Alimentos,35,0.59,Media,1900000,Recomendacion por categoria
+3009096,T10,6030,BM-500,Pasta 500g,Alimentos,45,0.58,Media,2000000,Producto complementario
+3012551,T10,6030,BM-500,Pasta 500g,Alimentos,30,0.64,Media,2300000,Afinidad con clientes similares
+3045907,T14,6031,BM-500,Pasta 500g,Alimentos,60,0.69,Media,2700000,Oportunidad de venta cruzada
+3023529,T12,6032,BM-500,Pasta 500g,Alimentos,35,0.76,Alta,3300000,Alta probabilidad para el segmento
