@@ -213,7 +213,7 @@ cells.append(code(
 "# IMPORTANTE: reemplaza la IP por la IPv4 pública de tu instancia EC2.\n"
 "# La encuentras en: AWS Console → EC2 → Instancias → columna 'IPv4 pública'\n"
 "# El servidor MLflow debe estar corriendo en EC2 con:\n"
-"#   mlflow server --host 0.0.0.0 --port 8001 \\\n"
+"#   mlflow server --host 0.0.0.0 --port 8050 \\\n"
 "#                 --backend-store-uri sqlite:///mlflow.db \\\n"
 "#                 --default-artifact-root ./mlartifacts\n"
 "# ────────────────────────────────────────────────────────────────────────────\n"
