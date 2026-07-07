@@ -205,7 +205,7 @@ print("=" * 60)
 #                 --backend-store-uri sqlite:///mlflow.db \
 #                 --default-artifact-root ./mlartifacts
 # ─────────────────────────────────────────────────────────────────────────────
-EC2_IP = "54.221.126.196"   # <── CAMBIA ESTO por la IP pública de tu EC2
+EC2_IP = "98.91.21.105"   # <── CAMBIA ESTO por la IP pública de tu EC2
 mlflow.set_tracking_uri(f"http://{EC2_IP}:8050")
 mlflow.set_experiment("Recomendacion_Productos_DSA2026")
 
