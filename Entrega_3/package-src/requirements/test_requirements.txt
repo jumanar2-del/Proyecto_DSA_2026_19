@@ -1,4 +1,0 @@
--r requirements.txt
-
-# testing
-pytest>=7.4.0,<9.0.0
